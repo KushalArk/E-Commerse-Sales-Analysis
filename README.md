@@ -2,7 +2,7 @@
 
 Data Analysis & Visualisation in Excel: Vrinda E-Commerce Store Analysis 
 
-Analyzed an E-Commerce Store Data to Find Insights that can help the Business Increase Revenue by targeting the right customers based on age, gender, and demographics.
+Analyzed a Hypothetical Online E-Commerce Store Data to Find Insights that can help the Business Increase Revenue by targeting the right customers based on age, gender, and demographics.
 
 For this I did the following:
 1. Data Cleaning & Processing: Performed comprehensive data preparation and cleaning to ensure data accuracy and consistency.
@@ -18,6 +18,7 @@ Final Conclusion & Strategic Recommendations:
 Target women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 Use case source: YouTube.
+link: https://www.youtube.com/watch?v=gTK5rNhWJyA&list=PLdOKnrf8EcP3HmVrsXxfzxL9Jv0KR3I4x
 
 Note:
 Kindly refer to Vrinda Store Data Analysis.xlsx for for insights. the dashboard is functional. Kindly download and have a look on my project.
