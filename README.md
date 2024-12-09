@@ -18,3 +18,6 @@ Final Conclusion & Strategic Recommendations:
 Target women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
 Use case source: YouTube.
+
+Note:
+Kindly refer to Vrinda Store Data Analysis.xlsx for for insights. the dashboard is functional. Kindly download and have a look on my project.
