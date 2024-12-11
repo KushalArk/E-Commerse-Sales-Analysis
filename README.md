@@ -1,4 +1,4 @@
-# E-Commerse-Sales-Analysis
+# E-Commerce-Sales-Analysis
 
 Data Analysis & Visualisation in Excel: Vrinda E-Commerce Store Analysis 
 
